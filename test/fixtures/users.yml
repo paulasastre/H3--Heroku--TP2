@@ -4,10 +4,12 @@ one:
   firstname: MyString
   lastname: MyString
   email: MyString
+  message: MyText
   age: 1
 
 two:
   firstname: MyString
   lastname: MyString
   email: MyString
+  message: MyText
   age: 1
